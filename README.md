@@ -42,6 +42,9 @@
 
 ### 🍺 오늘의 한 잔 (Smart Drinking Recorder)
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c1bfa294-6543-495e-9e77-f4233d7396bb" />
+
+
 > **2025 인천대학교 컴퓨터공학부 졸업작품 (A그룹)** > *웨어러블 센서와 AI를 활용한 음주량 자동 기록 및 실시간 BAC(혈중 알코올 농도) 예측 서비스*
 
 - **Role**: Team Member (Backend/App 연동 등 개발 전반 참여)

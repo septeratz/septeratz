@@ -25,7 +25,10 @@
 
 ## 🚀 Projects
 
-### 🧴 AI 기반 피부 질환 및 유형 분석 서비스
+### 🧴 삐까뻔쩍 - AI 기반 피부 질환 및 유형 분석 서비스
+
+<img width="1159" height="778" alt="image" src="https://github.com/user-attachments/assets/795b3fdc-0b1a-417c-b19c-e6c9a90069d0" />
+
 > **2025 Techeer Summer Bootcamp (Team J)** > *사용자의 피부 사진을 분석하여 질환을 진단하고 맞춤형 정보를 제공하는 서비스*
 
 - **Role**: Backend & DevOps
@@ -37,15 +40,31 @@
 
 <br/>
 
+### 🍺 오늘의 한 잔 (Smart Drinking Recorder)
+
+> **2025 인천대학교 컴퓨터공학부 졸업작품 (A그룹)** > *웨어러블 센서와 AI를 활용한 음주량 자동 기록 및 실시간 BAC(혈중 알코올 농도) 예측 서비스*
+
+- **Role**: Team Member (Backend/App 연동 등 개발 전반 참여)
+- **Key Features**:
+    - **음주 기록 자동화**: 가속도/자이로스코프 센서를 활용해 '잔 올리기' 동작 감지 및 횟수 자동 카운팅
+    - **AI 기반 BAC 예측**: 생체 데이터를 수집하여 개인별 혈중 알코올 농도(BAC) 실시간 예측
+    - **Spring - Android - Flutter 연결**: Java와 Kotlin, Dart 언어 활용 백엔드, 프론트엔드 연결
+- **Tech Stack**: Android (Wearable), AI Model(ResNet50), AWS, MySQL
+- **Links**: [Presentation Youtube](https://www.youtube.com/watch?v=6ZcBgrLUa38)
+
+<br/>
+
+
 ### ☁️ 구름톤 유니브 2025 시즌톤 프로젝트
-> **9oormthon Univ 2025 Seasonthon (Team 97)** > *팀 97 백엔드 개발 프로젝트*
+> **9oormthon Univ 2025 Seasonthon (Team 97)** > *청춘 스케치: 청년들에게 필요한 정책들을 AI 기반 요약으로 제공하는 서비스*
 
 - **Role**: Backend Developer
-- **Key Tech**: Java, Spring Boot (추정), MySQL
+- **Key Tech**: Java, Spring Boot, MariaDB, AWS
 - **Description**: 
     - RESTful API 설계 및 구현
     - 데이터베이스 스키마 설계 및 최적화
-    - 협업 툴(Git/GitHub)을 활용한 팀 프로젝트 진행
+    - Github Actions를 활용하여 build & deploy 자동화
+    - AI 학습 기반 마련
 - **Links**: [GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_97_BE)
 
 <br/>

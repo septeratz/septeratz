@@ -27,7 +27,9 @@
 
 ### 🧴 삐까뻔쩍 - AI 기반 피부 질환 및 유형 분석 서비스
 
-<img width="1159" height="778" alt="image" src="https://github.com/user-attachments/assets/795b3fdc-0b1a-417c-b19c-e6c9a90069d0" />
+<a href="https://github.com/2025-Techeer-Summer-Bootcamp-Team-J">
+  <img width="1159" height="778" alt="image" src="https://github.com/user-attachments/assets/795b3fdc-0b1a-417c-b19c-e6c9a90069d0" />
+</a>
 
 > **2025 Techeer Summer Bootcamp (Team J)** > *사용자의 피부 사진을 분석하여 질환을 진단하고 맞춤형 정보를 제공하는 서비스*
 

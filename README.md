@@ -12,18 +12,27 @@
 
 <br/>
 
-## 🛠 Tech Skills
+## 🚀 Projects
 
-| Category | Stack |
-| :--- | :--- |
-| **Backend** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) |
-| **Environment** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+### Moneylog - 가계부 관리 및 홍보 서비스
+
+<a href="https://github.com/5kstration">
+  <img width="2044" height="1146" alt="image" src="https://github.com/user-attachments/assets/30bc2eb0-801d-4954-aafd-c47a19b4396b" />
+
+</a>
+
+> **우리FISA 6기 클라우드 엔지니어링 - 5팀** > *고가용성에 초점을 맞춘 On-Premise, AWS 하이브리드 클라우드 아키텍쳐 서비스*
+
+- **Role**: Backend, Infra, DevOps
+- **Key Tech**: Java, VMware ESXi, AWS, Kubernetes
+- **Description**: 
+    - 스토리지 계층화 및 On-premise MinIO와 AWS S3 마이그레이션 작업
+    - AWS EKS, On-premise Kubernetes 연결 및 Pod 형태로 서비스 배포
+    - Jenkins, ArgoCD 활용 CI/CD 환경 구축
+    - 가계부 서비스 개발 및 RDS(PostgreSQL) 연결, 프론트 연동
+- **Links**: [GitHub Repository](https://github.com/5kstration)
 
 <br/>
-
-## 🚀 Projects
 
 ### 🧴 삐까뻔쩍 - AI 기반 피부 질환 및 유형 분석 서비스
 
@@ -57,20 +66,17 @@
 - **Tech Stack**: Android (Wearable), AI Model(ResNet50), AWS, MySQL
 - **Links**: [Presentation Youtube](https://www.youtube.com/watch?v=6ZcBgrLUa38)
 
+
 <br/>
 
+## 🛠 Tech Skills
 
-### ☁️ 구름톤 유니브 2025 시즌톤 프로젝트
-> **9oormthon Univ 2025 Seasonthon (Team 97)** > *청춘 스케치: 청년들에게 필요한 정책들을 AI 기반 요약으로 제공하는 서비스*
-
-- **Role**: Backend Developer
-- **Key Tech**: Java, Spring Boot, MariaDB, AWS
-- **Description**: 
-    - RESTful API 설계 및 구현
-    - 데이터베이스 스키마 설계 및 최적화
-    - Github Actions를 활용하여 build & deploy 자동화
-    - AI 학습 기반 마련
-- **Links**: [GitHub Repository](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_97_BE)
+| Category | Stack |
+| :--- | :--- |
+| **Backend** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) |
+| **Environment** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 <br/>
 

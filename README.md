@@ -6,7 +6,7 @@
   <p>Cloud Engineering, DevOps, Backend 분야에 깊은 관심을 가지고 있으며,<br>안정적이고 효율적인 인프라와 서버 구축을 목표로 합니다.</p>
   
   <a href="https://solved.ac/dfghjk23">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=dfghjk23" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=septeratz" alt="Solved.ac Profile">
   </a>
 </div>
 
